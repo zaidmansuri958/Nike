@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile"
+    android:background="@color/teal_700">
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       android:padding="10dp">
+
+       <TextView
+           android:id="@+id/user_name"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="name"
+           android:textSize="48sp"
+           android:layout_gravity="center"
+           android:textColor="@color/white"
+           android:fontFamily="@font/chakra_petch_bold_italic"
+           android:textStyle="bold"
+           android:layout_marginTop="40sp"/>
+
+       <TextView
+           android:id="@+id/user_email"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="name"
+           android:textSize="30sp"
+           android:layout_gravity="center"
+           android:textColor="#cdcdcd"
+           android:fontFamily="@font/chakra_petch_bold_italic"
+           android:textStyle="bold"
+           android:layout_marginTop="15dp"/>
+
+       <TextView
+           android:id="@+id/user_contact"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="name"
+           android:textSize="30sp"
+           android:layout_gravity="center"
+           android:textColor="#cdcdcd"
+           android:fontFamily="@font/chakra_petch_bold_italic"
+           android:textStyle="bold"
+           android:layout_marginTop="15dp"/>
+
+       <TextView
+           android:id="@+id/user_address"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="name"
+           android:textSize="30sp"
+           android:layout_gravity="center"
+           android:textColor="#cdcdcd"
+           android:fontFamily="@font/chakra_petch_bold_italic"
+           android:textStyle="bold"
+           android:layout_marginTop="15dp"/>
+       <TextView
+           android:id="@+id/user_city"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="name"
+           android:textSize="30sp"
+           android:layout_gravity="center"
+           android:textColor="#cdcdcd"
+           android:fontFamily="@font/chakra_petch_bold_italic"
+           android:textStyle="bold"
+           android:layout_marginTop="15dp"/>
+       <TextView
+           android:id="@+id/user_pincode"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="name"
+           android:textSize="30sp"
+           android:layout_gravity="center"
+           android:textColor="#cdcdcd"
+           android:fontFamily="@font/chakra_petch_bold_italic"
+           android:textStyle="bold"
+           android:layout_marginTop="15dp"/>
+
+       <Button
+           android:id="@+id/logout"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Log out"
+           android:background="@drawable/football_btn"
+           android:textStyle="bold"
+           android:textColor="@color/teal_700"
+           android:textSize="30sp"
+           android:layout_marginTop="30dp"
+           android:fontFamily="@font/chakra_petch_bold_italic"
+           android:layout_alignParentBottom="true"
+           />
+   </LinearLayout>
+
+</FrameLayout>

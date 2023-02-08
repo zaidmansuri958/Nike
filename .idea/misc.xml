@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/andorid apps/Nike/app/src/main/res/drawable/radiostatus.xml" value="0.1915" />
+        <entry key="..\:/andorid apps/Nike/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/drawable/address.xml" value="0.148" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/drawable/contact.xml" value="0.148" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/drawable/lock.xml" value="0.148" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/drawable/lock_open.xml" value="0.148" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/layout/card.xml" value="0.20416666666666666" />
+        <entry key="..\:/andoridApps/Nike/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/address.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/arrow.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/bag.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/bottom_shape.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/btn.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/cheked.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/contact.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/email.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/football_btn.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/home.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/ic_city.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/lock.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/lock_open.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/person.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/pincode.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/radiostatus.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/search.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/search_bar.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/shoe.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/drawable/signback.xml" value="0.1375" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/activity_signup.xml" value="0.18" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/activity_watch.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/card.xml" value="0.22" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/footballcard.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/fragment_cart.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/fragment_football.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/fragment_watch.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/ordercard.xml" value="0.25" />
+        <entry key="..\:/app/Nike/app/src/main/res/layout/slider.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
